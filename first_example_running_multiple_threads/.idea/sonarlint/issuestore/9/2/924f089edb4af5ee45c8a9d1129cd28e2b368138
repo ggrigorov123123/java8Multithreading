@@ -1,0 +1,13 @@
+
+>
+java:S1604	"(Make this anonymous inner class a lambda(Êùø
+0
+java:S1220""Move this file to a named package.
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(„ğÑ·
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ãäôğ
+P
+java:S18546"5Remove this useless assignment to local variable "y".(ÈÃéøûÿÿÿÿ
+A
+java:S14814"&Remove this unused "y" local variable.(ˆ§ÒÊûÿÿÿÿ
